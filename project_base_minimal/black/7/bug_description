@@ -1,0 +1,24 @@
+Summary for Project black
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/black
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/black/bugs/7
+--------------------------------------------------------------------------------
+Project name	: black
+Status 		: OK
+Github URL	: https://github.com/psf/black
+Number of bugs	: 23
+--------------------------------------------------------------------------------
+
+Summary for Bug black-7
+--------------------------------------------------------------------------------
+Revision id
+	de806405d2934b629d67e2a6317ad7e826765a20
+--------------------------------------------------------------------------------
+Buggy id
+	18119d38466652ae818436cb497f601294ed4558
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/data/tupleassign.py
+	tests/test_black.py

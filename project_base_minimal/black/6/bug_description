@@ -1,0 +1,24 @@
+Summary for Project black
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/black
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/black/bugs/6
+--------------------------------------------------------------------------------
+Project name	: black
+Status 		: OK
+Github URL	: https://github.com/psf/black
+Number of bugs	: 23
+--------------------------------------------------------------------------------
+
+Summary for Bug black-6
+--------------------------------------------------------------------------------
+Revision id
+	f8617f975d56e81cfb4070ce65584f7b29a77e7a
+--------------------------------------------------------------------------------
+Buggy id
+	8c8adedc2a74a494c24f93e405b6418ac32f54cd
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_black.py
+	tests/data/comment_after_escaped_newline.py

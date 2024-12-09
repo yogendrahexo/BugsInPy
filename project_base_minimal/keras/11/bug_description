@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/11
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-11
+--------------------------------------------------------------------------------
+Revision id
+	d6b5c5ebb410e3366c9d7aca41977a60134bfe10
+--------------------------------------------------------------------------------
+Buggy id
+	36b9e4c055f32718a036cabaf767325b010c7485
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/integration_tests/test_image_data_tasks.py

@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/30
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-30
+--------------------------------------------------------------------------------
+Revision id
+	2c8d1d03599cc03243bce8f07ed9c4a3d5f384f9
+--------------------------------------------------------------------------------
+Buggy id
+	c08ef613af27da896cee168daeee5c6fad1980b6
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/engine/test_training.py

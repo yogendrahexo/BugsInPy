@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/7
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-7
+--------------------------------------------------------------------------------
+Revision id
+	ac400b51bb31b91920ee9aae02a0606a67983a8f
+--------------------------------------------------------------------------------
+Buggy id
+	969513e2a5227331a2eb9e4bc4ba8448a0f9831d
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_colors.py

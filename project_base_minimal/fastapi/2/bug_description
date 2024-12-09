@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/2
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-2
+--------------------------------------------------------------------------------
+Revision id
+	02441ff0313d5b471b662293244c53e712f1243f
+--------------------------------------------------------------------------------
+Buggy id
+	210af1fd3dc0f612a08fa02a0cb3f5adb81e5bfb
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_ws_router.py

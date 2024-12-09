@@ -1,0 +1,23 @@
+Summary for Project tqdm
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/tqdm
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/tqdm/bugs/7
+--------------------------------------------------------------------------------
+Project name	: tqdm
+Status 		: OK
+Github URL	: https://github.com/tqdm/tqdm
+Number of bugs	: 9
+--------------------------------------------------------------------------------
+
+Summary for Bug tqdm-7
+--------------------------------------------------------------------------------
+Revision id
+	4efd35246c924236f34d8130b1055a3c3ba78605
+--------------------------------------------------------------------------------
+Buggy id
+	caefe02fd6f3165e5634460ab20caf4c60400120
+--------------------------------------------------------------------------------
+Triggering test file
+	tqdm/tests/tests_main.py

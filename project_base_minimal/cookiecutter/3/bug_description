@@ -1,0 +1,23 @@
+Summary for Project cookiecutter
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/cookiecutter
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/cookiecutter/bugs/3
+--------------------------------------------------------------------------------
+Project name	: cookiecutter
+Status 		: OK
+Github URL	: https://github.com/cookiecutter/cookiecutter
+Number of bugs	: 4
+--------------------------------------------------------------------------------
+
+Summary for Bug cookiecutter-3
+--------------------------------------------------------------------------------
+Revision id
+	7129d474206761a6156925db78eee4b62a0e3944
+--------------------------------------------------------------------------------
+Buggy id
+	5c282f020a8db7e5e7c4e7b51b010556ca31fb7f
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_read_user_choice.py

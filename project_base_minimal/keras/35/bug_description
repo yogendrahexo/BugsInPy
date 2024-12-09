@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/35
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-35
+--------------------------------------------------------------------------------
+Revision id
+	738819de0b7e6bc45abed8d0640f02b81c6ac4e9
+--------------------------------------------------------------------------------
+Buggy id
+	06eaeebecfb73c23bfd531013ca172ee3bf5069c
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/preprocessing/image_test.py

@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/19
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-19
+--------------------------------------------------------------------------------
+Revision id
+	dc23d67a42dad54308a753639edd1ea0d15cb2e7
+--------------------------------------------------------------------------------
+Buggy id
+	959b96cf6ec8cedda05dc58efe0e0f3bd6ed2f4e
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_git_push_force.py

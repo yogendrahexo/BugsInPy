@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/4
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-4
+--------------------------------------------------------------------------------
+Revision id
+	8db3cf604865e559090412ce80b0640e290ad83a
+--------------------------------------------------------------------------------
+Buggy id
+	68949a592248913b52bfd50036893553153fcddb
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/shells/test_fish.py

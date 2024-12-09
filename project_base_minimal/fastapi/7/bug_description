@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/7
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-7
+--------------------------------------------------------------------------------
+Revision id
+	19c77e35bdde33aeec1eb2cfa680f95016492b69
+--------------------------------------------------------------------------------
+Buggy id
+	cc4c13e4ae3f65fc76c23962b316df4a60e0c7e0
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_multi_body_errors.py

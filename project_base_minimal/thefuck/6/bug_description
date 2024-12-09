@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/6
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-6
+--------------------------------------------------------------------------------
+Revision id
+	7c858fadb3458be829d3d43666ccb46c3ed5b8a0
+--------------------------------------------------------------------------------
+Buggy id
+	797ca1c5647c565f62e21a8e29515c8b0fbe275f
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_git_branch_exists.py

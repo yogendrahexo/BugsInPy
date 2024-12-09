@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/26
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-26
+--------------------------------------------------------------------------------
+Revision id
+	13673fd488c25325db633b1d49e664fb937fabc2
+--------------------------------------------------------------------------------
+Buggy id
+	ed351ca3c3baf3657de584db08dfe0414fa000a3
+--------------------------------------------------------------------------------
+Triggering test file
+	test/contrib/hadoop_jar_test.py

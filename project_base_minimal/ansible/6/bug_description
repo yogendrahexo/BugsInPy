@@ -1,0 +1,23 @@
+Summary for Project ansible
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/ansible
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/ansible/bugs/6
+--------------------------------------------------------------------------------
+Project name	: ansible
+Status 		: OK
+Github URL	: https://github.com/ansible/ansible
+Number of bugs	: 18
+--------------------------------------------------------------------------------
+
+Summary for Bug ansible-6
+--------------------------------------------------------------------------------
+Revision id
+	4881af2e7e0506ada0225fd764e874e20569d5b2
+--------------------------------------------------------------------------------
+Buggy id
+	90898132e456ee1993db99a1531379f1b98ee915
+--------------------------------------------------------------------------------
+Triggering test file
+	test/units/galaxy/test_collection_install.py

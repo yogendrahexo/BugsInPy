@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/27
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-27
+--------------------------------------------------------------------------------
+Revision id
+	02f25d60139b160fd9b321802b4a2f6c6f3f8672
+--------------------------------------------------------------------------------
+Buggy id
+	11269123d516cda369764a081ddfb8c1a10ddc53
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_colorbar.py

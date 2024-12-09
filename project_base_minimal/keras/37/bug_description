@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/37
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-37
+--------------------------------------------------------------------------------
+Revision id
+	1d2ad790dd43a2d702176c1170b2f3fd592a385a
+--------------------------------------------------------------------------------
+Buggy id
+	81f6b3aa5b2b6215a533180e848a3b4dff851d03
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/layers/wrappers_test.py

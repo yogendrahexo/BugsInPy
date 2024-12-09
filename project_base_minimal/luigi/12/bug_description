@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/12
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-12
+--------------------------------------------------------------------------------
+Revision id
+	b3e9ad57f8502a390686957b69070105fddcfd49
+--------------------------------------------------------------------------------
+Buggy id
+	c3119757c9ad4141fb446554109fa09cbd31173c
+--------------------------------------------------------------------------------
+Triggering test file
+	test/hdfs_client_test.py

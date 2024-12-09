@@ -1,0 +1,23 @@
+Summary for Project tornado
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/tornado
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/tornado/bugs/10
+--------------------------------------------------------------------------------
+Project name	: tornado
+Status 		: OK
+Github URL	: https://github.com/tornadoweb/tornado
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug tornado-10
+--------------------------------------------------------------------------------
+Revision id
+	5931d913b4ea250891a0b582f1f8b2901b868c79
+--------------------------------------------------------------------------------
+Buggy id
+	ecd8968c5135b810cd607b5902dda2cd32122b39
+--------------------------------------------------------------------------------
+Triggering test file
+	tornado/test/websocket_test.py

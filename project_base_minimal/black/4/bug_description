@@ -1,0 +1,24 @@
+Summary for Project black
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/black
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/black/bugs/4
+--------------------------------------------------------------------------------
+Project name	: black
+Status 		: OK
+Github URL	: https://github.com/psf/black
+Number of bugs	: 23
+--------------------------------------------------------------------------------
+
+Summary for Bug black-4
+--------------------------------------------------------------------------------
+Revision id
+	c7495b9aa098ef7a358fc74556359d21c6a4ba11
+--------------------------------------------------------------------------------
+Buggy id
+	65ea568e3301951f26e0e3b98f6d5dc80132e917
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_black.py
+	tests/data/beginning_backslash.py

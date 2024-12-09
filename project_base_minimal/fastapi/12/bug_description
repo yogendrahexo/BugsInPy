@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/12
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-12
+--------------------------------------------------------------------------------
+Revision id
+	d262f6e9296993e528e2327f0a73f7bf5514e7c6
+--------------------------------------------------------------------------------
+Buggy id
+	d61f5e4b555b123bf222503fc0e076cbae6a7ebc
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_security_http_bearer_optional.py

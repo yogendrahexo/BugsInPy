@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/18
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-18
+--------------------------------------------------------------------------------
+Revision id
+	cabed6f183cfb2ab778c57be8c75802fec5e54d4
+--------------------------------------------------------------------------------
+Buggy id
+	41588397c04356f2b0c393b61ed68271a08d6ccd
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_responsetypes.py

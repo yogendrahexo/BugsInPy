@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/25
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-25
+--------------------------------------------------------------------------------
+Revision id
+	84e168b5fa55933e02e767ff7c86fcc0232aecc6
+--------------------------------------------------------------------------------
+Buggy id
+	b470a595f7278acf5e7e47521edf25d3c4f479f1
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/applications/imagenet_utils_test.py

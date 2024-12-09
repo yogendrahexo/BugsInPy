@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/20
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-20
+--------------------------------------------------------------------------------
+Revision id
+	280751b36e715b006c631ba6c08de99ccc74f6d2
+--------------------------------------------------------------------------------
+Buggy id
+	0a6a3db65d2fc480c5b2f1135137f34c9f06b742
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_dirty_unzip.py

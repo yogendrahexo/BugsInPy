@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/10
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-10
+--------------------------------------------------------------------------------
+Revision id
+	3c55acd2cd5cf9c6c760bec5bb3159e0bc48a614
+--------------------------------------------------------------------------------
+Buggy id
+	f538d1b3d473d542a19d508e5f7e0809b1dfe5ef
+--------------------------------------------------------------------------------
+Triggering test file
+	test/scheduler_test.py

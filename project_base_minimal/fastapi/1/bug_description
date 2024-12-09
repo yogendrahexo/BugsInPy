@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/1
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-1
+--------------------------------------------------------------------------------
+Revision id
+	3397d4d69a9c2d64c1219fcbf291ea5697a4abb8
+--------------------------------------------------------------------------------
+Buggy id
+	766157bfb4e7dfccba09ab398e8ec444d14e947c
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_jsonable_encoder.py

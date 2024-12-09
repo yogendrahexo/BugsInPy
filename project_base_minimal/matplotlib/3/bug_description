@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/3
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-3
+--------------------------------------------------------------------------------
+Revision id
+	2a3707d9c3472b1a010492322b6946388d4989ae
+--------------------------------------------------------------------------------
+Buggy id
+	5e046f72ae82788788c7e9b9354b87b131891cd8
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_marker.py

@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/10
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-10
+--------------------------------------------------------------------------------
+Revision id
+	38495fffa560fa57a8f0e6437d8e43c36c8e5612
+--------------------------------------------------------------------------------
+Buggy id
+	b77a43bcac3ec8e7edbe82543e777c60ae85c178
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_skip_defaults.py

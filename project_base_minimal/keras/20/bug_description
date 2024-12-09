@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/20
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-20
+--------------------------------------------------------------------------------
+Revision id
+	6dd087ab73b09e449144ff17450cc14f981b9ac2
+--------------------------------------------------------------------------------
+Buggy id
+	76da5f0a21ca98e4bf6706e182fb825243e76204
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/layers/convolutional_test.py

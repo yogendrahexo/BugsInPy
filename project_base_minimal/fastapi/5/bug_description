@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/5
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-5
+--------------------------------------------------------------------------------
+Revision id
+	75a07f24bf01a31225ee687f3e2b3fc1981b67ab
+--------------------------------------------------------------------------------
+Buggy id
+	7cea84b74ca3106a7f861b774e9d215e5228728f
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_filter_pydantic_sub_model.py

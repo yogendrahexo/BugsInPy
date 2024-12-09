@@ -1,0 +1,23 @@
+Summary for Project tornado
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/tornado
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/tornado/bugs/12
+--------------------------------------------------------------------------------
+Project name	: tornado
+Status 		: OK
+Github URL	: https://github.com/tornadoweb/tornado
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug tornado-12
+--------------------------------------------------------------------------------
+Revision id
+	301f52b532c071a0d2fec1eb7c23f2714bb38567
+--------------------------------------------------------------------------------
+Buggy id
+	4ee9ba94de11aaa4f932560fa2b3d8ceb8c61d2a
+--------------------------------------------------------------------------------
+Triggering test file
+	tornado/test/auth_test.py

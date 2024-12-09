@@ -1,0 +1,23 @@
+Summary for Project PySnooper
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/PySnooper
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/PySnooper/bugs/3
+--------------------------------------------------------------------------------
+Project name	: PySnooper
+Status 		: OK
+Github URL	: https://github.com/cool-RR/PySnooper
+Number of bugs	: 3
+--------------------------------------------------------------------------------
+
+Summary for Bug PySnooper-3
+--------------------------------------------------------------------------------
+Revision id
+	15555ed760000b049aff8fecc79d29339c1224c3
+--------------------------------------------------------------------------------
+Buggy id
+	6e3d797be3fa0a746fb5b1b7c7fea78eb926c208
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_pysnooper.py

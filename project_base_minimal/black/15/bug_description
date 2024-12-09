@@ -1,0 +1,24 @@
+Summary for Project black
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/black
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/black/bugs/15
+--------------------------------------------------------------------------------
+Project name	: black
+Status 		: OK
+Github URL	: https://github.com/psf/black
+Number of bugs	: 23
+--------------------------------------------------------------------------------
+
+Summary for Bug black-15
+--------------------------------------------------------------------------------
+Revision id
+	df2ae3bbe6c45298aabb6c04e85cb353205626f1
+--------------------------------------------------------------------------------
+Buggy id
+	8a8c58252cc023ae250d6febd24f50a8166450d4
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/data/fmtonoff2.py
+	tests/test_black.py

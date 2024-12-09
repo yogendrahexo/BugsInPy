@@ -1,0 +1,23 @@
+Summary for Project ansible
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/ansible
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/ansible/bugs/8
+--------------------------------------------------------------------------------
+Project name	: ansible
+Status 		: OK
+Github URL	: https://github.com/ansible/ansible
+Number of bugs	: 18
+--------------------------------------------------------------------------------
+
+Summary for Bug ansible-8
+--------------------------------------------------------------------------------
+Revision id
+	fc7980af9a42676913b4054163570ee438b82e9c
+--------------------------------------------------------------------------------
+Buggy id
+	81378b3e744cd0d13b33d18a4f8a38aeb8a6e97a
+--------------------------------------------------------------------------------
+Triggering test file
+	test/units/plugins/shell/test_powershell.py

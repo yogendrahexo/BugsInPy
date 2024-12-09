@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/31
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-31
+--------------------------------------------------------------------------------
+Revision id
+	1285303363bc420bd7606bd5f808e3f2b4f0e83f
+--------------------------------------------------------------------------------
+Buggy id
+	66e2ec7e3f0d3f848c01d87bb3503b0ff90fc78a
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_git_diff_staged.py

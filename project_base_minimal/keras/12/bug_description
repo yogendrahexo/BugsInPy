@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/12
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-12
+--------------------------------------------------------------------------------
+Revision id
+	6dff721a3a8755356b2e89d02ef63ad8ab38ec95
+--------------------------------------------------------------------------------
+Buggy id
+	6dff721a3a8755356b2e89d02ef63ad8ab38ec95
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/metrics_test.py

@@ -1,0 +1,23 @@
+Summary for Project ansible
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/ansible
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/ansible/bugs/9
+--------------------------------------------------------------------------------
+Project name	: ansible
+Status 		: OK
+Github URL	: https://github.com/ansible/ansible
+Number of bugs	: 18
+--------------------------------------------------------------------------------
+
+Summary for Bug ansible-9
+--------------------------------------------------------------------------------
+Revision id
+	6f1bb37feb81acd99157f5ba0933fecd747015a2
+--------------------------------------------------------------------------------
+Buggy id
+	9276dd2007a73172ed99ab5a56cded4298d3cd2b
+--------------------------------------------------------------------------------
+Triggering test file
+	test/units/modules/packaging/os/test_redhat_subscription.py

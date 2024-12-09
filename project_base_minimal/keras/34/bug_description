@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/34
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-34
+--------------------------------------------------------------------------------
+Revision id
+	4b74fc5418944c9f449eb88ed4b40ada280fa5ca
+--------------------------------------------------------------------------------
+Buggy id
+	7ef5244a2f1f7f7b76e3c804b82cbb20cdf4d139
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_multiprocessing.py

@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/2
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-2
+--------------------------------------------------------------------------------
+Revision id
+	24e85945ae39e5975491527e00c3f0f64b42ea6e
+--------------------------------------------------------------------------------
+Buggy id
+	baa54c9f4f809692d62d4c3e4497161717c76550
+--------------------------------------------------------------------------------
+Triggering test file
+	test/contrib/beam_dataflow_test.py

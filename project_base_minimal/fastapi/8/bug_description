@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/8
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-8
+--------------------------------------------------------------------------------
+Revision id
+	dd963511d699b463b416408a0ad705b3dda0d067
+--------------------------------------------------------------------------------
+Buggy id
+	fdb6d43e103bcf7a7325d796e37c9435c9460e4c
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_custom_route_class.py

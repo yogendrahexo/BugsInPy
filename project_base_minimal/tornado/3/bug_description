@@ -1,0 +1,23 @@
+Summary for Project tornado
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/tornado
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/tornado/bugs/3
+--------------------------------------------------------------------------------
+Project name	: tornado
+Status 		: OK
+Github URL	: https://github.com/tornadoweb/tornado
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug tornado-3
+--------------------------------------------------------------------------------
+Revision id
+	aa622e724f80e0f7fcee369f75d69d1db13d72f2
+--------------------------------------------------------------------------------
+Buggy id
+	940fd87fe9145d1154c8457221f86d56ea063c65
+--------------------------------------------------------------------------------
+Triggering test file
+	tornado/test/httpclient_test.py

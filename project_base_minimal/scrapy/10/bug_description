@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/10
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-10
+--------------------------------------------------------------------------------
+Revision id
+	db408528928b2d15043593032913fe40d6eb6783
+--------------------------------------------------------------------------------
+Buggy id
+	6cc83c041eac36e7688dbd9c4c55487a43b622e0
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_downloadermiddleware_redirect.py

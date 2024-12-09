@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/7
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-7
+--------------------------------------------------------------------------------
+Revision id
+	c05ef1fd95a6024155ab59656fef8dac5a45c335
+--------------------------------------------------------------------------------
+Buggy id
+	26b620fb37c885d60183f83abc744f43775ce75a
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/wrappers/scikit_learn_test.py

@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/15
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-15
+--------------------------------------------------------------------------------
+Revision id
+	f60313e29657b2afb6a02f28dba5936bc0dd09e6
+--------------------------------------------------------------------------------
+Buggy id
+	5b6243485acc20cc36f2db4f258512c332d691ec
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/test_callbacks.py

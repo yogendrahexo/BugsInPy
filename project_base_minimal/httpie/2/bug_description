@@ -1,0 +1,23 @@
+Summary for Project httpie
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/httpie
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/httpie/bugs/2
+--------------------------------------------------------------------------------
+Project name	: httpie
+Status 		: OK
+Github URL	: https://github.com/jakubroztocil/httpie/
+Number of bugs	: 5
+--------------------------------------------------------------------------------
+
+Summary for Bug httpie-2
+--------------------------------------------------------------------------------
+Revision id
+	e18b609ef7d867d6efa0efe42c832be5e0d09338
+--------------------------------------------------------------------------------
+Buggy id
+	356e0436510fee70b4071fac58be81c0a0a7db59
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_redirects.py

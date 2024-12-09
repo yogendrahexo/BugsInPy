@@ -1,0 +1,23 @@
+Summary for Project spacy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/spacy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/spacy/bugs/6
+--------------------------------------------------------------------------------
+Project name	: spacy
+Status 		: OK
+Github URL	: https://github.com/explosion/spaCy
+Number of bugs	: 10
+--------------------------------------------------------------------------------
+
+Summary for Bug spacy-6
+--------------------------------------------------------------------------------
+Revision id
+	afe4a428f78abe45d6104d74ef42a066570fa43d
+--------------------------------------------------------------------------------
+Buggy id
+	6b874ef09611ac32ad038203423d44087cbeb3ae
+--------------------------------------------------------------------------------
+Triggering test file
+	spacy/tests/pipeline/test_analysis.py

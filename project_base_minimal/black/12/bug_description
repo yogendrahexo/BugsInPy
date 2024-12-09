@@ -1,0 +1,24 @@
+Summary for Project black
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/black
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/black/bugs/12
+--------------------------------------------------------------------------------
+Project name	: black
+Status 		: OK
+Github URL	: https://github.com/psf/black
+Number of bugs	: 23
+--------------------------------------------------------------------------------
+
+Summary for Bug black-12
+--------------------------------------------------------------------------------
+Revision id
+	b53cb9474348e13533ccba3735191a55ef3da6c4
+--------------------------------------------------------------------------------
+Buggy id
+	8b340e210271a8108995fd479c55dbc0a34466bd
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/data/bracketmatch.py
+	tests/test_black.py

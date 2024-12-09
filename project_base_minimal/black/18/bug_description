@@ -1,0 +1,23 @@
+Summary for Project black
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/black
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/black/bugs/18
+--------------------------------------------------------------------------------
+Project name	: black
+Status 		: OK
+Github URL	: https://github.com/psf/black
+Number of bugs	: 23
+--------------------------------------------------------------------------------
+
+Summary for Bug black-18
+--------------------------------------------------------------------------------
+Revision id
+	00a302560b92951c22f0f4c8d618cf63de39bd57
+--------------------------------------------------------------------------------
+Buggy id
+	dbe26161fa68632d608a440666a0960a32630902
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_black.py

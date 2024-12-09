@@ -1,0 +1,23 @@
+Summary for Project sanic
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/sanic
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/sanic/bugs/1
+--------------------------------------------------------------------------------
+Project name	: sanic
+Status 		: OK
+Github URL	: https://github.com/huge-success/sanic
+Number of bugs	: 5
+--------------------------------------------------------------------------------
+
+Summary for Bug sanic-1
+--------------------------------------------------------------------------------
+Revision id
+	44973125c15304b4262c51c78b5a86bd1daafa86
+--------------------------------------------------------------------------------
+Buggy id
+	e7001b00747b659f7042b0534802b936ee8a53e0
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_blueprints.py

@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/45
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-45
+--------------------------------------------------------------------------------
+Revision id
+	159bb1aac17a8de0f96997d35703b8f26926a848
+--------------------------------------------------------------------------------
+Buggy id
+	d368dc870bfd8fdd4ca0ff82bd5b61aa549291c5
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/layers/recurrent_test.py

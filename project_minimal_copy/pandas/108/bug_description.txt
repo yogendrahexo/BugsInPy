@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/108
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-108
+--------------------------------------------------------------------------------
+Revision id
+	53a0dfd41a65a33dd7b0963734b24c749212e625
+--------------------------------------------------------------------------------
+Buggy id
+	20e4c18
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/dtypes/cast/test_infer_dtype.py

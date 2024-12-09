@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/6
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-6
+--------------------------------------------------------------------------------
+Revision id
+	25f609e2a3c27ca7d7d98dbfddb2c049735935bb
+--------------------------------------------------------------------------------
+Buggy id
+	8aa2e4f9976d31bbe3a0014b4f1f96ace1b87043
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_pipeline_images.py

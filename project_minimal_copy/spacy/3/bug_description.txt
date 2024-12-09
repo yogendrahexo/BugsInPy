@@ -1,0 +1,23 @@
+Summary for Project spacy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/spacy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/spacy/bugs/3
+--------------------------------------------------------------------------------
+Project name	: spacy
+Status 		: OK
+Github URL	: https://github.com/explosion/spaCy
+Number of bugs	: 10
+--------------------------------------------------------------------------------
+
+Summary for Bug spacy-3
+--------------------------------------------------------------------------------
+Revision id
+	663333c3b2bad90915d1a48a626ca1275b7ef077
+--------------------------------------------------------------------------------
+Buggy id
+	dac70f29eb3b1f21ae9e2c6346666bf6a46307b6
+--------------------------------------------------------------------------------
+Triggering test file
+	spacy/tests/regression/test_issue5314.py

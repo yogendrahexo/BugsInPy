@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/132
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-132
+--------------------------------------------------------------------------------
+Revision id
+	bd8f07fb29d2ac819f4c8e8e1b8e6d40f8b0f40c
+--------------------------------------------------------------------------------
+Buggy id
+	221c8a7
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/reductions/test_reductions.py

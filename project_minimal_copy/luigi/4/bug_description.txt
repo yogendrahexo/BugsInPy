@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/4
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-4
+--------------------------------------------------------------------------------
+Revision id
+	8501e5dbb8d3040453a89bb0d3562526086d51e5
+--------------------------------------------------------------------------------
+Buggy id
+	ffa51b50103a3adaf3c4d0569fdb037a7ba01e8e
+--------------------------------------------------------------------------------
+Triggering test file
+	test/contrib/redshift_test.py

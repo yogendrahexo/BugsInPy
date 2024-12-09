@@ -1,0 +1,23 @@
+Summary for Project httpie
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/httpie
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/httpie/bugs/3
+--------------------------------------------------------------------------------
+Project name	: httpie
+Status 		: OK
+Github URL	: https://github.com/jakubroztocil/httpie/
+Number of bugs	: 5
+--------------------------------------------------------------------------------
+
+Summary for Bug httpie-3
+--------------------------------------------------------------------------------
+Revision id
+	589887939507ff26d36ec74bd2c045819cfa3d56
+--------------------------------------------------------------------------------
+Buggy id
+	8c33e5e3d31d3cd6476c4d9bc963a4c529f883d2
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_sessions.py

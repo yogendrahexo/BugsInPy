@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/98
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-98
+--------------------------------------------------------------------------------
+Revision id
+	09e4b780f09c5aa72bb2a6ae2832612f81dc047f
+--------------------------------------------------------------------------------
+Buggy id
+	8105a7e
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/indexes/period/test_constructors.py

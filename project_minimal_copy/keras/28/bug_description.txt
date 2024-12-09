@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/28
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-28
+--------------------------------------------------------------------------------
+Revision id
+	5422fdd38baad36730cb6aeb946e17eeae6a551c
+--------------------------------------------------------------------------------
+Buggy id
+	6171b3656ebd9b6038f709ba83f7475de284ba4e
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/preprocessing/sequence_test.py

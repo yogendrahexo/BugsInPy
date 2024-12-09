@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/1
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-1
+--------------------------------------------------------------------------------
+Revision id
+	9d9dea0d69709ef0f7aef67ddba1bd7bda25d273
+--------------------------------------------------------------------------------
+Buggy id
+	c57512fa669e6f6b1b766a7639206a380f0d10ce
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_spidermiddleware_offsite.py

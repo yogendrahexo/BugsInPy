@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/149
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-149
+--------------------------------------------------------------------------------
+Revision id
+	fa1364d1299a53093bc704f9c34c595b602a568b
+--------------------------------------------------------------------------------
+Buggy id
+	0d69d91
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/io/test_gcs.py

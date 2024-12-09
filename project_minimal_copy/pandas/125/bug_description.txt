@@ -1,0 +1,24 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/125
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-125
+--------------------------------------------------------------------------------
+Revision id
+	fb08ceeeeba2ba62f92b47d424b3ae83c20ed9db
+--------------------------------------------------------------------------------
+Buggy id
+	e639af2
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/arrays/categorical/test_algos.py
+	pandas/tests/frame/test_replace.py

@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/6
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-6
+--------------------------------------------------------------------------------
+Revision id
+	8cd8ed3657e52ad9f67e17b7f5c20f7340ab6a2c
+--------------------------------------------------------------------------------
+Buggy id
+	21a10d1
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/groupby/test_size.py

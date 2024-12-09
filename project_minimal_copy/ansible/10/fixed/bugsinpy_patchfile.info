@@ -1,0 +1,1 @@
+changelogs/fragments/66398-pamd_fix-attributeerror-when-removing-first-line.yml;lib/ansible/modules/system/pamd.py;

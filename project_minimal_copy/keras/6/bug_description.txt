@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/6
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-6
+--------------------------------------------------------------------------------
+Revision id
+	4b54657ab4806b0aaef8f8eeb973edb83c3d3483
+--------------------------------------------------------------------------------
+Buggy id
+	88af7d0c97497b5c3a198ee9416b2accfbc72c36
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_loss_masking.py

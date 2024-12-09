@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/158
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-158
+--------------------------------------------------------------------------------
+Revision id
+	b1c871ce4b5e76b3cffe1ebd4216d36379872352
+--------------------------------------------------------------------------------
+Buggy id
+	a76df79
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/series/test_alter_axes.py

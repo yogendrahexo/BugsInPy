@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/115
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-115
+--------------------------------------------------------------------------------
+Revision id
+	386494d0dc851be9e86b1576f30fa8705df4d47b
+--------------------------------------------------------------------------------
+Buggy id
+	ed20822
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/series/test_missing.py

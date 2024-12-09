@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/30
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-30
+--------------------------------------------------------------------------------
+Revision id
+	f1e3fb48fe9877e511a2d079636fd75eaaba4573
+--------------------------------------------------------------------------------
+Buggy id
+	97fa4afea3748f0d714482d2c97990bb467bc9d1
+--------------------------------------------------------------------------------
+Triggering test file
+	test/test_event_callbacks.py

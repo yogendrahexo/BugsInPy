@@ -1,0 +1,23 @@
+Summary for Project ansible
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/ansible
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/ansible/bugs/4
+--------------------------------------------------------------------------------
+Project name	: ansible
+Status 		: OK
+Github URL	: https://github.com/ansible/ansible
+Number of bugs	: 18
+--------------------------------------------------------------------------------
+
+Summary for Bug ansible-4
+--------------------------------------------------------------------------------
+Revision id
+	18a66e291dad71128a32d662aa808213acefe0e9
+--------------------------------------------------------------------------------
+Buggy id
+	d91658ec0c8434c82c3ef98bfe9eb4e1027a43a3
+--------------------------------------------------------------------------------
+Triggering test file
+	test/units/playbook/test_collectionsearch.py

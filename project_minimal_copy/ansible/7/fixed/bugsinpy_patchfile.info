@@ -1,0 +1,1 @@
+lib/ansible/module_utils/network/eos/config/vlans/vlans.py;test/integration/targets/eos_vlans/tests/cli/replaced.yaml;

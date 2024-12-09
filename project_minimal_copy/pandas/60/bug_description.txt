@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/60
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-60
+--------------------------------------------------------------------------------
+Revision id
+	fcf7258c19b0a6a712f33fb0bcefdae426be7e7f
+--------------------------------------------------------------------------------
+Buggy id
+	6bc2dca
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/window/test_grouper.py

@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/135
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-135
+--------------------------------------------------------------------------------
+Revision id
+	f41219179de69fed5c2a4b7df821394af1aa6559
+--------------------------------------------------------------------------------
+Buggy id
+	0df22b6
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/extension/decimal/test_decimal.py

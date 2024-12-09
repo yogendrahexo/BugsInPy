@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/23
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-23
+--------------------------------------------------------------------------------
+Revision id
+	f042ad0f39594d59a1a2032e6294ff1890638138
+--------------------------------------------------------------------------------
+Buggy id
+	c9e046d11dc63fbdc40effce4e6d15bcecd44593
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_downloadermiddleware_httpproxy.py

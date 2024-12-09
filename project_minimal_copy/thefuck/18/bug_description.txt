@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/18
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-18
+--------------------------------------------------------------------------------
+Revision id
+	c3b1ba763708b8faaaf55717c436c4cd4c57a7ea
+--------------------------------------------------------------------------------
+Buggy id
+	b65a9a0a4fd9bef394b45a1d367d29aa1e1c403e
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_sudo.py

@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/14
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-14
+--------------------------------------------------------------------------------
+Revision id
+	b7d184363fad5f6b55d15ec3a3a844aa81092bbd
+--------------------------------------------------------------------------------
+Buggy id
+	2ddb804940bbcad4ed730b2a910c8fd3c1167127
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_additional_properties.py

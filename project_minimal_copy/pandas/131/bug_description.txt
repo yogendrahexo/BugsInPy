@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/131
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-131
+--------------------------------------------------------------------------------
+Revision id
+	bf5848f111c92fc5c6c11a93a3bc2480f138f1b1
+--------------------------------------------------------------------------------
+Buggy id
+	73745be
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/series/test_datetime_values.py

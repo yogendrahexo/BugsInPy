@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/142
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-142
+--------------------------------------------------------------------------------
+Revision id
+	65815e6f33e25991e3d40a53c581ffb3c7daf70f
+--------------------------------------------------------------------------------
+Buggy id
+	7721f31
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/series/test_analytics.py

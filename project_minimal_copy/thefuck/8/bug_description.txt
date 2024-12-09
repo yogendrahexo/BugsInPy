@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/8
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-8
+--------------------------------------------------------------------------------
+Revision id
+	be48f027847161f907def8987706041c65a1fd58
+--------------------------------------------------------------------------------
+Buggy id
+	449cb9a00693c8b4d97d5fda8d732cf0978e117e
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_dnf_no_such_command.py

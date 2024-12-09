@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/38
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-38
+--------------------------------------------------------------------------------
+Revision id
+	6c3970e6722191b642fd99c6c1bfed0d93010cab
+--------------------------------------------------------------------------------
+Buggy id
+	6cc6bbb5fc5c102271829a554772effb0444023c
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_http_request.py

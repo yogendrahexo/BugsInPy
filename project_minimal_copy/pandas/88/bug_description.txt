@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/88
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-88
+--------------------------------------------------------------------------------
+Revision id
+	586bcb16023ae870b0ad7769f6d9077903705486
+--------------------------------------------------------------------------------
+Buggy id
+	698920f
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/reshape/test_pivot.py

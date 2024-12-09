@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/30
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-30
+--------------------------------------------------------------------------------
+Revision id
+	43fead02d3a24fef71534116c5550def0f56830c
+--------------------------------------------------------------------------------
+Buggy id
+	de513cacb150049e3f95434f8d6d30b7ed1e0ea7
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_fix_file.py

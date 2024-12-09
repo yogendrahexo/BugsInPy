@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/9
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-9
+--------------------------------------------------------------------------------
+Revision id
+	c5817912d2be25bb310bf9da517882f57bbe7bb5
+--------------------------------------------------------------------------------
+Buggy id
+	a7a92bc63768ccee3f3afc2b73b2c581928dfe75
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_request_body_parameters_media_type.py

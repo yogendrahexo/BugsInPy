@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/31
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-31
+--------------------------------------------------------------------------------
+Revision id
+	e2a10a5e6e156a45e946c4d08db7133f997c1f9a
+--------------------------------------------------------------------------------
+Buggy id
+	ced81968b0e9d8b1389e6580721ac60d9cf3ca60
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/backend/backend_test.py

@@ -1,0 +1,23 @@
+Summary for Project ansible
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/ansible
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/ansible/bugs/5
+--------------------------------------------------------------------------------
+Project name	: ansible
+Status 		: OK
+Github URL	: https://github.com/ansible/ansible
+Number of bugs	: 18
+--------------------------------------------------------------------------------
+
+Summary for Bug ansible-5
+--------------------------------------------------------------------------------
+Revision id
+	3c3ffc09c203d1b2262f6a319cceadd727749761
+--------------------------------------------------------------------------------
+Buggy id
+	2af76f16be8cf2239daaec4c2f31c3dcb4e3469e
+--------------------------------------------------------------------------------
+Triggering test file
+	test/units/module_utils/common/validation/test_check_required_arguments.py

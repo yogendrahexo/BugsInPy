@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/130
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-130
+--------------------------------------------------------------------------------
+Revision id
+	8efc717e4652e1e4bfbc4455da1d40eb676eed91
+--------------------------------------------------------------------------------
+Buggy id
+	7adc14a
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/groupby/test_value_counts.py

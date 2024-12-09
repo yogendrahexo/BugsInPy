@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/9
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-9
+--------------------------------------------------------------------------------
+Revision id
+	b7115974c3deadf77113686248b39567cb67e38f
+--------------------------------------------------------------------------------
+Buggy id
+	f7e0b7710fd8b12f27625b1efb62a8fde6e206c4
+--------------------------------------------------------------------------------
+Triggering test file
+	test/execution_summary_test.py

@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/168
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-168
+--------------------------------------------------------------------------------
+Revision id
+	1fa1ad91b29c5474cbb86cbcbcdcd50537cad0ae
+--------------------------------------------------------------------------------
+Buggy id
+	2de4fbb
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/groupby/test_groupby.py

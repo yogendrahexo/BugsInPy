@@ -1,0 +1,24 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/42
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-42
+--------------------------------------------------------------------------------
+Revision id
+	05780a760400e42ce1b00200dd8204ae4f94044a
+--------------------------------------------------------------------------------
+Buggy id
+	b3a0fe4
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/util/test_assert_frame_equal.py
+	pandas/tests/util/test_assert_series_equal.py

@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/26
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-26
+--------------------------------------------------------------------------------
+Revision id
+	70ca24680d3e51fa4b957366e8093b3cc755462d
+--------------------------------------------------------------------------------
+Buggy id
+	13dc13f
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/arrays/categorical/test_analytics.py

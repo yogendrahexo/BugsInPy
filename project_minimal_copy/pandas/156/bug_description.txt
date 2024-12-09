@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/156
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-156
+--------------------------------------------------------------------------------
+Revision id
+	05cc95971e56b503d4df9911a44cd60a7b74cc79
+--------------------------------------------------------------------------------
+Buggy id
+	42d6ee7
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/sparse/frame/test_frame.py

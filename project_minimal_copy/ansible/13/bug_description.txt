@@ -1,0 +1,23 @@
+Summary for Project ansible
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/ansible
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/ansible/bugs/13
+--------------------------------------------------------------------------------
+Project name	: ansible
+Status 		: OK
+Github URL	: https://github.com/ansible/ansible
+Number of bugs	: 18
+--------------------------------------------------------------------------------
+
+Summary for Bug ansible-13
+--------------------------------------------------------------------------------
+Revision id
+	694ef5660d45fcb97c9beea5b2750f6eadcf5e93
+--------------------------------------------------------------------------------
+Buggy id
+	41472ee3878be215af8b933b2b04b4a72b9165ca
+--------------------------------------------------------------------------------
+Triggering test file
+	test/units/cli/test_galaxy.py

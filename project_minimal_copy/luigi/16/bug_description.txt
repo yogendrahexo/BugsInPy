@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/16
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-16
+--------------------------------------------------------------------------------
+Revision id
+	96f2b5a97c2cc5f63bea0f422c57f93dcec0ebac
+--------------------------------------------------------------------------------
+Buggy id
+	e38392a1381dd8daee0f180f0ac7f651edb88e0c
+--------------------------------------------------------------------------------
+Triggering test file
+	test/central_planner_test.py

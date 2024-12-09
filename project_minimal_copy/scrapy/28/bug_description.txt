@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/28
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-28
+--------------------------------------------------------------------------------
+Revision id
+	457b97c13ccf9a84f3dc7800c180cf059822c09a
+--------------------------------------------------------------------------------
+Buggy id
+	e2f31f3018c0037f65982209c22f93b80a5d6e7b
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_dupefilters.py

@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/28
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-28
+--------------------------------------------------------------------------------
+Revision id
+	ef9b9387c88cf12b20dd8656dfedfc236e0f3352
+--------------------------------------------------------------------------------
+Buggy id
+	40fd73a
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/test_strings.py

@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/4
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-4
+--------------------------------------------------------------------------------
+Revision id
+	4185cbb50bfcae9cc30b0fc7b67e81d67a50a8ac
+--------------------------------------------------------------------------------
+Buggy id
+	b0bfd5201da2bfced84028bcc5bda05bdfd75af7
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/optimizers_test.py

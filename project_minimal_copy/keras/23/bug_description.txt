@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/23
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-23
+--------------------------------------------------------------------------------
+Revision id
+	69c30a150f0b2caee7961ca1c0080960ef5ad6f6
+--------------------------------------------------------------------------------
+Buggy id
+	3dcd9c767ce6875fc8b69c74971ac8a552e23131
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/test_sequential_model.py

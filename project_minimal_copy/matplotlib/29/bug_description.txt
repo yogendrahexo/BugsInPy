@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/29
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-29
+--------------------------------------------------------------------------------
+Revision id
+	fc51b411ba5d0984544ecff97e0a28ea4b6a6d03
+--------------------------------------------------------------------------------
+Buggy id
+	cdf9e30e4f3fb7747b178ee9c3849dfdebee7bd0
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_axes.py

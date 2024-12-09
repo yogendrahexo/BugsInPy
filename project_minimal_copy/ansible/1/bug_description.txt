@@ -1,0 +1,23 @@
+Summary for Project ansible
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/ansible
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/ansible/bugs/1
+--------------------------------------------------------------------------------
+Project name	: ansible
+Status 		: OK
+Github URL	: https://github.com/ansible/ansible
+Number of bugs	: 18
+--------------------------------------------------------------------------------
+
+Summary for Bug ansible-1
+--------------------------------------------------------------------------------
+Revision id
+	343ffaa18b63c92e182b16c3ad84b8d81ca4df69
+--------------------------------------------------------------------------------
+Buggy id
+	25c5388fdec9e56517a93feb5e8d485680946c25
+--------------------------------------------------------------------------------
+Triggering test file
+	test/units/galaxy/test_collection.py

@@ -1,0 +1,23 @@
+Summary for Project httpie
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/httpie
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/httpie/bugs/4
+--------------------------------------------------------------------------------
+Project name	: httpie
+Status 		: OK
+Github URL	: https://github.com/jakubroztocil/httpie/
+Number of bugs	: 5
+--------------------------------------------------------------------------------
+
+Summary for Bug httpie-4
+--------------------------------------------------------------------------------
+Revision id
+	040d981f00c3f6830b2d0db3daf3c64c080e96e3
+--------------------------------------------------------------------------------
+Buggy id
+	8c892edd4fe700a7ca5cc733dcb4817831d253e2
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_regressions.py

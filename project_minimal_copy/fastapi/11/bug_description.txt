@@ -1,0 +1,24 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/11
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-11
+--------------------------------------------------------------------------------
+Revision id
+	06eb4219345a77d23484528c9d164eb8d2097fec
+--------------------------------------------------------------------------------
+Buggy id
+	bf229ad5d830eb5320f966d51a55e590e8d57008
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_union_body.py
+	tests/test_union_inherited_body.py

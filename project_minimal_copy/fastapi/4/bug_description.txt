@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/4
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-4
+--------------------------------------------------------------------------------
+Revision id
+	74c4d1c1dbe6bfdb05d6e4fc767ffe062398f0a3
+--------------------------------------------------------------------------------
+Buggy id
+	7ccd81f70653857bd8f3a15ee946aa3fb0edc2cb
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_param_in_path_and_dependency.py

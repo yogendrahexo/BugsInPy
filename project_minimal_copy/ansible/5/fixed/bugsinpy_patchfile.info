@@ -1,0 +1,1 @@
+changelogs/fragments/67771-validation-error.yml;lib/ansible/module_utils/common/validation.py;test/units/module_utils/common/validation/test_check_mutually_exclusive.py;test/units/module_utils/common/validation/test_check_required_together.py;

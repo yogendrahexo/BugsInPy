@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/163
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-163
+--------------------------------------------------------------------------------
+Revision id
+	f669f94a186ea444cc771985a915e90eecf218a9
+--------------------------------------------------------------------------------
+Buggy id
+	61819ab
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/window/test_rolling.py

@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/152
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-152
+--------------------------------------------------------------------------------
+Revision id
+	f61deb962ac0853595a43ad024c482b018d1792b
+--------------------------------------------------------------------------------
+Buggy id
+	eb8cce0
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/series/test_combine_concat.py

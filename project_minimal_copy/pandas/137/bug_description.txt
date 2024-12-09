@@ -1,0 +1,24 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/137
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-137
+--------------------------------------------------------------------------------
+Revision id
+	48f1a67469c91c38e78ebb2648061fe73dd79e6b
+--------------------------------------------------------------------------------
+Buggy id
+	a1b2c4b
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/extension/test_categorical.py
+	pandas/tests/reshape/merge/test_merge.py

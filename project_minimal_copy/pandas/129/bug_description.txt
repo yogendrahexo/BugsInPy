@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/129
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-129
+--------------------------------------------------------------------------------
+Revision id
+	82c9547ddcaf2fd70e00f1368731f14a03bbac88
+--------------------------------------------------------------------------------
+Buggy id
+	5b580fb
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/arithmetic/test_timedelta64.py

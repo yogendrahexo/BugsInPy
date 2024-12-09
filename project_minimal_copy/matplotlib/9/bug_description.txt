@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/9
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-9
+--------------------------------------------------------------------------------
+Revision id
+	c01f9d3eff9b6239446c1bb2d205eccd69054aeb
+--------------------------------------------------------------------------------
+Buggy id
+	8673167d4c44dc2ede02fedd718dadf7f88e102d
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_polar.py

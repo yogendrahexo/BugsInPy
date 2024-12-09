@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/8
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-8
+--------------------------------------------------------------------------------
+Revision id
+	d78c982b326adeed6ac25200dc6892ff8f518ca6
+--------------------------------------------------------------------------------
+Buggy id
+	87540a2a2f42e00c4a2ca7ca35d19f96e62e6cb0
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/keras/engine/test_topology.py

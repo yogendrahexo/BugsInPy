@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/12
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-12
+--------------------------------------------------------------------------------
+Revision id
+	8aa707298428801199280b2b994632080591700a
+--------------------------------------------------------------------------------
+Buggy id
+	9bd296c
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/frame/methods/test_cov_corr.py

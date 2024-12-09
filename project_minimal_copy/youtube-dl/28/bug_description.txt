@@ -1,0 +1,23 @@
+Summary for Project youtube-dl
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/youtube-dl
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/youtube-dl/bugs/28
+--------------------------------------------------------------------------------
+Project name	: youtube-dl
+Status 		: OK
+Github URL	: https://github.com/ytdl-org/youtube-dl
+Number of bugs	: 43
+--------------------------------------------------------------------------------
+
+Summary for Bug youtube-dl-28
+--------------------------------------------------------------------------------
+Revision id
+	7aefc49c4013efb5056b2c1237e22c52cb5d3c49
+--------------------------------------------------------------------------------
+Buggy id
+	bd1512d19649c280197729814766d590ea6c023b
+--------------------------------------------------------------------------------
+Triggering test file
+	test/test_utils.py

@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/6
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-6
+--------------------------------------------------------------------------------
+Revision id
+	ce881b2a95743887c6147ff4ba23ce5f622b3f5e
+--------------------------------------------------------------------------------
+Buggy id
+	d9667b7c8ce75f17efa383e8f64e27e5852e6f89
+--------------------------------------------------------------------------------
+Triggering test file
+	test/parameter_test.py

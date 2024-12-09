@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/75
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-75
+--------------------------------------------------------------------------------
+Revision id
+	9a211aae9f710db23c9113aea0251e2758904755
+--------------------------------------------------------------------------------
+Buggy id
+	2038d7a
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/indexes/period/test_indexing.py

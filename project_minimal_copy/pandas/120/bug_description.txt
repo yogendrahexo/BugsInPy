@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/120
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-120
+--------------------------------------------------------------------------------
+Revision id
+	c5a1f9e2c373ced9ef2f02ab64d11eaa7b4248f2
+--------------------------------------------------------------------------------
+Buggy id
+	2b0cac7
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/groupby/test_categorical.py

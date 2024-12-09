@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/21
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-21
+--------------------------------------------------------------------------------
+Revision id
+	213791d3c2af379ffa37a140735998736b41912e
+--------------------------------------------------------------------------------
+Buggy id
+	71dc2666ccf62e653291d9a7a08e2c6c3320425b
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_git_fix_stash.py

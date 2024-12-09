@@ -1,0 +1,24 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/3
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-3
+--------------------------------------------------------------------------------
+Revision id
+	d3a6a3a58e1a6eb68b8b8399ff252b8f4501950e
+--------------------------------------------------------------------------------
+Buggy id
+	45fee32
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/series/methods/test_to_period.py
+	pandas/tests/series/methods/test_to_timestamp.py

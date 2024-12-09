@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/31
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-31
+--------------------------------------------------------------------------------
+Revision id
+	dba7e39f61cbe2c22d3c9064f32f6e36d74f14b2
+--------------------------------------------------------------------------------
+Buggy id
+	5f02ef82e8560242eb34b336f385addfdef3211d
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_downloadermiddleware_cookies.py

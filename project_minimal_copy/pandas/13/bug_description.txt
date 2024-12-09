@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/13
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-13
+--------------------------------------------------------------------------------
+Revision id
+	91150d976ac41bd93a0e6516b2090c534f91aff2
+--------------------------------------------------------------------------------
+Buggy id
+	08f9bd2
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/arrays/categorical/test_missing.py

@@ -1,0 +1,23 @@
+Summary for Project spacy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/spacy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/spacy/bugs/8
+--------------------------------------------------------------------------------
+Project name	: spacy
+Status 		: OK
+Github URL	: https://github.com/explosion/spaCy
+Number of bugs	: 10
+--------------------------------------------------------------------------------
+
+Summary for Bug spacy-8
+--------------------------------------------------------------------------------
+Revision id
+	5efae495f18f37316bd641a05ca26e62cb78e242
+--------------------------------------------------------------------------------
+Buggy id
+	fa95c030a511337935d1a2e930cb954c7a4cd376
+--------------------------------------------------------------------------------
+Triggering test file
+	spacy/tests/matcher/test_matcher_logic.py

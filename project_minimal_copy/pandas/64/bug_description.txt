@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/64
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-64
+--------------------------------------------------------------------------------
+Revision id
+	d0c84ce57d23a409169daf7232ec7681e42363fe
+--------------------------------------------------------------------------------
+Buggy id
+	31c1856
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/io/excel/test_writers.py

@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/8
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-8
+--------------------------------------------------------------------------------
+Revision id
+	d09f20e29bdfa82f5efc071986e2633001d552f6
+--------------------------------------------------------------------------------
+Buggy id
+	ddbeca6
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/frame/methods/test_replace.py

@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/19
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-19
+--------------------------------------------------------------------------------
+Revision id
+	1f743996ff00a7b728d59b93d0967e1eb50072f0
+--------------------------------------------------------------------------------
+Buggy id
+	e328a9b9dfa4fbc79c59ed4f45f757e998301c31
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_http_cookies.py

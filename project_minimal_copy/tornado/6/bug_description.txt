@@ -1,0 +1,23 @@
+Summary for Project tornado
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/tornado
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/tornado/bugs/6
+--------------------------------------------------------------------------------
+Project name	: tornado
+Status 		: OK
+Github URL	: https://github.com/tornadoweb/tornado
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug tornado-6
+--------------------------------------------------------------------------------
+Revision id
+	2905ee4fb3c283d40b10f609359e189c83a0dc06
+--------------------------------------------------------------------------------
+Buggy id
+	fb74e4816ccfa7fc6a7abd8c8aab1f415cfc1b13
+--------------------------------------------------------------------------------
+Triggering test file
+	tornado/test/asyncio_test.py

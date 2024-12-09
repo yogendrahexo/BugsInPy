@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/30
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-30
+--------------------------------------------------------------------------------
+Revision id
+	d4de838fe7b38abb02f061540fd93962cc063fc4
+--------------------------------------------------------------------------------
+Buggy id
+	3b26ee6f6b31bc0cca4be0407dbb40f44756030d
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_colors.py

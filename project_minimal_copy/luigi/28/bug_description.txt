@@ -1,0 +1,23 @@
+Summary for Project luigi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/luigi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/luigi/bugs/28
+--------------------------------------------------------------------------------
+Project name	: luigi
+Status 		: OK
+Github URL	: https://github.com/spotify/luigi
+Number of bugs	: 33
+--------------------------------------------------------------------------------
+
+Summary for Bug luigi-28
+--------------------------------------------------------------------------------
+Revision id
+	e2be971226c34a193d7029c51206e488b6a037cd
+--------------------------------------------------------------------------------
+Buggy id
+	e37cb0ea1d97e6340840128a68c8d59bd05c28c3
+--------------------------------------------------------------------------------
+Triggering test file
+	test/contrib/hive_test.py

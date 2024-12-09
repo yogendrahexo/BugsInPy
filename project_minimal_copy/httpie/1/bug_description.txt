@@ -1,0 +1,23 @@
+Summary for Project httpie
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/httpie
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/httpie/bugs/1
+--------------------------------------------------------------------------------
+Project name	: httpie
+Status 		: OK
+Github URL	: https://github.com/jakubroztocil/httpie/
+Number of bugs	: 5
+--------------------------------------------------------------------------------
+
+Summary for Bug httpie-1
+--------------------------------------------------------------------------------
+Revision id
+	5300b0b490b8db48fac30b5e32164be93dc574b7
+--------------------------------------------------------------------------------
+Buggy id
+	001bda19450ad85c91345eea3cfa3991e1d492ba
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_downloads.py

@@ -1,0 +1,24 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/41
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-41
+--------------------------------------------------------------------------------
+Revision id
+	d4273353bc512e3b4e79c361b879633f33ec7289
+--------------------------------------------------------------------------------
+Buggy id
+	1b49f69
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/indexing/test_iloc.py
+	pandas/tests/internals/test_internals.py

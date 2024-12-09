@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/91
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-91
+--------------------------------------------------------------------------------
+Revision id
+	cb9a1c7d0319c34a97247973ca96af53ead8033a
+--------------------------------------------------------------------------------
+Buggy id
+	5c12d4f
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/arrays/test_timedeltas.py

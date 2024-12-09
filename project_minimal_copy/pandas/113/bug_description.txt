@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/113
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-113
+--------------------------------------------------------------------------------
+Revision id
+	8705aad961dd227d38ff93a39697547b98109c9d
+--------------------------------------------------------------------------------
+Buggy id
+	b164624
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/extension/test_integer.py

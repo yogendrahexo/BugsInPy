@@ -1,0 +1,23 @@
+Summary for Project fastapi
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/fastapi/bugs/13
+--------------------------------------------------------------------------------
+Project name	: fastapi
+Status 		: OK
+Github URL	: https://github.com/tiangolo/fastapi
+Number of bugs	: 16
+--------------------------------------------------------------------------------
+
+Summary for Bug fastapi-13
+--------------------------------------------------------------------------------
+Revision id
+	c8df3ae57c57e119d115dd3c1f44efa78de1022a
+--------------------------------------------------------------------------------
+Buggy id
+	6f7f9268f6b03f42831dcfeaa5c15ba9813333ec
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_additional_responses_router.py

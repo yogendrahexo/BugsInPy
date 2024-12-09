@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/157
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-157
+--------------------------------------------------------------------------------
+Revision id
+	def01cf7bbb5ef8c9bf2e19737ea918e6a76a143
+--------------------------------------------------------------------------------
+Buggy id
+	b1c871c
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/reshape/merge/test_merge_asof.py

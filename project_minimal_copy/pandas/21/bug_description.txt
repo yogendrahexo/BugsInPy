@@ -1,0 +1,24 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/21
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-21
+--------------------------------------------------------------------------------
+Revision id
+	56d0934092b8296c90f940c56fce3b731e0de81b
+--------------------------------------------------------------------------------
+Buggy id
+	4071c3b
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/series/indexing/test_boolean.py
+	pandas/tests/series/indexing/test_getitem.py

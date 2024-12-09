@@ -1,0 +1,23 @@
+Summary for Project thefuck
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/thefuck/bugs/1
+--------------------------------------------------------------------------------
+Project name	: thefuck
+Status 		: OK
+Github URL	: https://github.com/nvbn/thefuck
+Number of bugs	: 32
+--------------------------------------------------------------------------------
+
+Summary for Bug thefuck-1
+--------------------------------------------------------------------------------
+Revision id
+	444908ce1c17767ef4aaf9e0b4950497914f7f63
+--------------------------------------------------------------------------------
+Buggy id
+	2ced7a7f33ae0bec3ffc7a43ce95330bdf6cfcb9
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/rules/test_pip_unknown_command.py

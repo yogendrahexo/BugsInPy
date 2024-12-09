@@ -1,0 +1,23 @@
+Summary for Project keras
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/keras
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/keras/bugs/9
+--------------------------------------------------------------------------------
+Project name	: keras
+Status 		: OK
+Github URL	: https://github.com/keras-team/keras
+Number of bugs	: 45
+--------------------------------------------------------------------------------
+
+Summary for Bug keras-9
+--------------------------------------------------------------------------------
+Revision id
+	0505393746d56ddacc34bb1c016dba79429c9ac9
+--------------------------------------------------------------------------------
+Buggy id
+	0cd3b07eb5de1aaaad84d1ff7f7c2ed7dab4b23c
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_doc_auto_generation.py

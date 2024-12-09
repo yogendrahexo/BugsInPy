@@ -1,0 +1,23 @@
+Summary for Project cookiecutter
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/cookiecutter
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/cookiecutter/bugs/4
+--------------------------------------------------------------------------------
+Project name	: cookiecutter
+Status 		: OK
+Github URL	: https://github.com/cookiecutter/cookiecutter
+Number of bugs	: 4
+--------------------------------------------------------------------------------
+
+Summary for Bug cookiecutter-4
+--------------------------------------------------------------------------------
+Revision id
+	457a1a4e862aab4102b644ff1d2b2e2b5a766b3c
+--------------------------------------------------------------------------------
+Buggy id
+	9568ab6ecd2d6836646006c59473c4a4ac0dee04
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_hooks.py

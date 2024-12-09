@@ -1,0 +1,23 @@
+Summary for Project pandas
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/pandas
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/pandas/bugs/23
+--------------------------------------------------------------------------------
+Project name	: pandas
+Status 		: OK
+Github URL	: https://github.com/pandas-dev/pandas
+Number of bugs	: 169
+--------------------------------------------------------------------------------
+
+Summary for Bug pandas-23
+--------------------------------------------------------------------------------
+Revision id
+	38b669a206b151e0a2bb985200d4a493c4ac078f
+--------------------------------------------------------------------------------
+Buggy id
+	ab9f3c9
+--------------------------------------------------------------------------------
+Triggering test file
+	pandas/tests/indexes/datetimes/test_setops.py

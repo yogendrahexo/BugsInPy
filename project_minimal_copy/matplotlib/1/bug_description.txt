@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/1
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-1
+--------------------------------------------------------------------------------
+Revision id
+	5324adaec6a7fd3d78dea7b28451d5f6e95392a6
+--------------------------------------------------------------------------------
+Buggy id
+	c404d1f716e8aaefd4d7371ff49673e9c1f7f07c
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_bbox_tight.py

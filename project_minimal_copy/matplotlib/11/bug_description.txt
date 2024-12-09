@@ -1,0 +1,23 @@
+Summary for Project matplotlib
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/matplotlib/bugs/11
+--------------------------------------------------------------------------------
+Project name	: matplotlib
+Status 		: OK
+Github URL	: https://github.com/matplotlib/matplotlib
+Number of bugs	: 30
+--------------------------------------------------------------------------------
+
+Summary for Bug matplotlib-11
+--------------------------------------------------------------------------------
+Revision id
+	af745264376a10782bd0d8b96d255f958c2950f3
+--------------------------------------------------------------------------------
+Buggy id
+	f8459a513c3f67447ceb1a07c29760d504517ff2
+--------------------------------------------------------------------------------
+Triggering test file
+	lib/matplotlib/tests/test_text.py

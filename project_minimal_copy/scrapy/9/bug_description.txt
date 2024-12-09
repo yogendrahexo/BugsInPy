@@ -1,0 +1,23 @@
+Summary for Project scrapy
+--------------------------------------------------------------------------------
+Script dir	: /home/ubuntu/hexo/new/BugsInPy/framework/bin
+Base dir	: /home/ubuntu/hexo/new/BugsInPy
+Data dir	: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy
+Bug dir		: /home/ubuntu/hexo/new/BugsInPy/projects/scrapy/bugs/9
+--------------------------------------------------------------------------------
+Project name	: scrapy
+Status 		: OK
+Github URL	: https://github.com/scrapy/scrapy
+Number of bugs	: 40
+--------------------------------------------------------------------------------
+
+Summary for Bug scrapy-9
+--------------------------------------------------------------------------------
+Revision id
+	ff3aec661355a82a6f77355a95e1f391fa586c2b
+--------------------------------------------------------------------------------
+Buggy id
+	a9c69458ff1667cc4d20ba25bb6a0dd9a5a08ce6
+--------------------------------------------------------------------------------
+Triggering test file
+	tests/test_mail.py
